@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 # Global server name
-server_name = 'cuwo server'
+server_name = 'Cahor007 server'
 
 # Max number of players on the server at once
 max_players = 4
