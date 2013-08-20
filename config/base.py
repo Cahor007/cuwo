@@ -1,13 +1,13 @@
 # -*- coding: utf-8 -*-
 
 # Global server name
-server_name = 'cuwo server'
+server_name = 'Cahor007 server'
 
 # Max number of players on the server at once
 max_players = 4
 
 # Seed for the server
-seed = 26879
+seed = 26262828
 
 # Time speed modifier, 1.0 is default
 time_modifier = 1.0
